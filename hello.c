@@ -2,5 +2,5 @@
 #include<conio.h>
 int main(void)
 {
-    printf("hello shreyas ");
+    printf("Hello, World!");
 }
