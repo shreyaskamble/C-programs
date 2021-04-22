@@ -1,3 +1,5 @@
+// print numbers from 1 to 10 with out any loop
+
 #include<stdio.h>
 int main()
 {
